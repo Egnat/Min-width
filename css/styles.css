@@ -1333,6 +1333,14 @@ body { background:#9e9e9e38; }
 
 .text-room { left: 539px; }
 
+.but1-room { right: 481px; }
+
+.but2-room { left: 511px; }
+
+.h1 { top: 0px; left: 56px;}
+
+.mini-text-room { top: 0px; left: 56px;}
+
 .section1-black { width: 100%; bottom: 0px;}
 
 .section2-white {width: 100%; }
@@ -1358,6 +1366,10 @@ body { background:green; }
 
 .header { width: 100%; }
 
+.ic { left: 122px; }
+
+.telephon { right: 98px; }
+
 .room { width: 100%; height: 923px;}
 
 .filter-room { width: 100%; height: 923px; }
@@ -1366,11 +1378,71 @@ body { background:green; }
 
 .text-room { left: 630px; }
 
+.h1 { top: -163px; }
+
+.mini-text-room { top: -163px; }
+
 .section1-black { width: 100%; bottom: 0px;}
+
+.filter-img-room2 { width: 892px; height: 313px;}
+
+.img-room2 { width: 892px; height: 313px; }
+
+.arrow-left { right: 368px; }
+
+.arrow-right { left: 381px; }
+
+.filt-repair {  width: 892px; height: 313px; right: 99px; bottom: 47px;}
+
+.repair { width: 892px; height: 313px;}
+
+.play { right: 595px; }
+
+.different { width: 546px; }
+
+.big-line { left: 212px; }
+
+.mini-text2-black { width: 491px; font-size: 14px; line-height: 22px;}
+
+.fio { right: 329px; }
+
+.tel {top: 122px; right: -223px; }
+
+.first-checkbox { top: 228px; right: 2px;}
+
+.submit { top: 279px; }
 
 .section2-white {width: 100%;  }
 
+.mini-section { width: 468px; height: 427.15px; right: 484px;}
+
+.blue-wall { width: 468px; height: 427.15px; }
+
+.mini-section2 { width: 468px; height: 427.15px; top: 124px; left: 10px;}
+
+.red-curtains { width: 468px; height: 427.15px; }
+
+.mini-section3 { width: 468px; height: 427.15px; top: 145px; right: -503px;}
+
+.lamps { width: 468px; height: 427.15px;}
+
+.we { top: 341px; }
+
+.filter-watches {width: 892px; height: 391px; top: 348px; }
+
+.watches { width: 892px; height: 391px;}
+
+.arrow-left1 { top: 131px; right: 373px;}
+
+.arrow-right1 { top: 71px; left: 378px;}
+
 .section3-black { width: 100%; }
+
+.filter-navigator { width: 982px; height: 313px; }
+
+.navigator {  width: 982px; height: 313px; }
+
+.common { width: 738px; }
 
 .footer { width: 100%; top: 766px;}
 
