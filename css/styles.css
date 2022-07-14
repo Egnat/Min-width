@@ -1376,11 +1376,11 @@ body { background:green; }
 
 .img-room { width: 100%; height: 923px;}
 
-.but1-room { right: 558px; }
+.but1-room { right: 459px; }
 
-.but2-room { left: 622px; }
+.but2-room { left: 526px; }
 
-.text-room { left: 691px; }
+.text-room { left: 596px; }
 
 .h1 { top: -163px; }
 
@@ -1430,7 +1430,7 @@ body { background:green; }
 
 .lamps { width: 468px; height: 427.15px;}
 
-.we { top: 341px; }
+.we { top: 318px; }
 
 .filter-watches {width: 892px; height: 391px; top: 348px; }
 
@@ -1442,6 +1442,12 @@ body { background:green; }
 
 .section3-black { width: 100%; }
 
+.fio1 { right: 321px; } 
+
+.tel1 { top: 221px; right: -209px;}
+
+.question1 {top: 327px; right: 62px; }
+
 .filter-navigator { width: 982px; height: 313px; }
 
 .navigator {  width: 982px; height: 313px; }
@@ -1450,7 +1456,7 @@ body { background:green; }
 
 .footer { width: 100%; top: 766px;}
 
-.footer-content { left: 691px; }
+.footer-content { left: 607px; }
 }
 
 @media screen and (min-width: 1920px) {
