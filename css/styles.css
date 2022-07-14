@@ -1380,7 +1380,7 @@ body { background:green; }
 
 .but2-room { left: 622px; }
 
-.text-room { left: 630px; }
+.text-room { left: 691px; }
 
 .h1 { top: -163px; }
 
@@ -1450,7 +1450,7 @@ body { background:green; }
 
 .footer { width: 100%; top: 766px;}
 
-.footer-content { left: 761px; }
+.footer-content { left: 691px; }
 }
 
 @media screen and (min-width: 1920px) {
