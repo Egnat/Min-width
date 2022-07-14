@@ -1376,6 +1376,10 @@ body { background:green; }
 
 .img-room { width: 100%; height: 923px;}
 
+.but1-room { right: 558px; }
+
+.but2-room { left: 622px; }
+
 .text-room { left: 630px; }
 
 .h1 { top: -163px; }
@@ -1446,7 +1450,7 @@ body { background:green; }
 
 .footer { width: 100%; top: 766px;}
 
-.footer-content { left: 614px; }
+.footer-content { left: 761px; }
 }
 
 @media screen and (min-width: 1920px) {
