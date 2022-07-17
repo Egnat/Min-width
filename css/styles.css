@@ -1150,6 +1150,7 @@ justify-content: center;
 width: 390px;
 height: 83px;
 top: 24px;
+margin: 0 auto;
 }
 
 .email {
@@ -1570,4 +1571,21 @@ body { background: yellow; }
 .footer { width: 100%; }
 
 .footer-content { left: 761px; }
+}
+
+@media screen and (min-width: 2560px) {
+
+.text-room { left: 861px; }
+
+.mini-section { left: 1620px; }
+
+.mini-section2 { left: 1031px; }
+
+.mini-section3 { right: 598px; }
+
+.arrow-left1 { right: 1670px; }
+
+.arrow-right1 { left: 1670px; }
+
+.footer-content { left: 1089px; }
 }
