@@ -1367,8 +1367,6 @@ body { background:#9e9e9e38; }
 
 @media screen and (min-width: 1600px) {
 
-body { background:green; }
-
 .header { width: 100%; }
 
 .room { width: 100%; height: 923px;}
@@ -1417,7 +1415,7 @@ body { background:green; }
 
 .submit { top: 263px; }
 
-.section2-white {width: 100%;  }
+.section2-white {width: 100%; }
 
 .mini-section { width: 468px; height: 427.15px; left: 1076px;}
 
@@ -1532,7 +1530,7 @@ body { background: yellow; }
 
 .button-submit-text { font-size: 16px; left: 216px;}
 
-.section2-white {width: 100%;  }
+.section2-white {width: 100%; }
 
 .mini-section { width: 468px; height: 427.15px; left: 1309px; }
 
